@@ -3,7 +3,7 @@
 - My name's Nick, but you might know me by my online name BarryMoonshine
 - I've been teaching myself web development following the <a href="https://www.theodinproject.com/">The Odin Projects'</a> full stack JavaScript cirriculum, and have even contributed to a couple of lessons and reviewed others code!
   
-🔭 I’m currently building a personal portfolio! 
+🔭 I’m currently learning how to test server-side routes and controllers! 
 
 ### Skills
 <p float="left">
